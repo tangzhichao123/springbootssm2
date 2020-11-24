@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93ea3266-8a5c-41e5-9bbe-cce94d811e47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo/project/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/project/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="63" column="4" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+            <state relative-caret-position="418">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
             </state>
           </provider>
         </entry>
@@ -247,7 +247,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606183926091</updated>
       <workItem from="1606183927350" duration="10608000" />
-      <workItem from="1606212771743" duration="331000" />
+      <workItem from="1606212771743" duration="859000" />
     </task>
     <task id="LOCAL-00001" summary="二次提交">
       <created>1606212957950</created>
@@ -267,7 +267,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10939000" />
+    <option name="totallyTimeSpent" value="11467000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -279,7 +279,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="130" y="49" width="1412" height="771" extended-state="0" />
+    <frame x="124" y="53" width="1412" height="771" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533235" />
@@ -532,8 +532,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/project/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="63" column="4" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        <state relative-caret-position="418">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
         </state>
       </provider>
     </entry>
